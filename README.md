@@ -54,8 +54,7 @@ If you like anything you see here and would like my help (no idea why you would)
 Here's what I have used so far to help build this repo and the assets in it.
 
 - [Canva's AI](https://www.canva.com/ai-logo-generator/) to generate a simple logo
-- [Inkscape](https://inkscape.org/) to generate a bitmap trace of the logo and export as an SVG
-- [CloudConvert](https://cloudconvert.com/svg-to-png) to convert the SVG file from Inkscape into a PNG
+- [Inkscape](https://inkscape.org/) to generate a bitmap trace of the logo and export as a PNG
 - [Microsoft Designer](https://designer.microsoft.com/) to design the application mockup
 - [StackEdit](https://stackedit.io/) to help create this README
 - [Notepad++](https://notepad-plus-plus.org/) to edit this README
