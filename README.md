@@ -25,6 +25,11 @@ My wife and I like to collect and read books. We especially like to find books a
 - Using SQLite for storing book information
 - Using ...? API for fetching additional information from the web
 	>Google Books API or OpenLibrary API
+	
+By using Avalonia, I may be making this task more difficult. However, from what I have learned
+about it so far, it seems fairly easy to use. I've tinkered with it a bit (with the help of
+YouTube, Google, and Copilot) to make some simple buttons and text blocks and generate the background gradient
+for the application window.
 
 ## What's the name of this application?
 
