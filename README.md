@@ -41,7 +41,7 @@ In this case, I used AI to generate an image with a shape that I liked. I then u
 
 Not only am I not a graphic designer, I'm not a UX designer either. I threw this together in Microsoft Designer. I like the chosen color pallet and I hope the layout is user-friendly and easy to understand. It will likely end up be much simpler than this because I do not know how far my skills will develop before the project is due. The below image will likely change a few more times as I develop my ideas. I'm already thinking of changing the layout of the windows to a stacked implementation
 
-<img src="/Assets/GoweliMockup.png" width=10% height=10%>
+<img src="/Assets/GoweliMockup.png" width=75% height=75%>
 
 
 
