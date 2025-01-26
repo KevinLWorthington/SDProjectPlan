@@ -34,6 +34,7 @@ I've landed on **Goweli** (go-way-lee) which is the English spelling of the Cher
 
 I'm not a graphic designer. I've never been able to get a grasp on image creation or editing tools.
 In this case, I used AI to generate an image with a shape that I liked. I then used Inkscape to do a bitmap trace to give me a simple logo and saved it as a PNG.
+I have not yet decided on a design or font for the word 'Goweli'.
 
 <img src="/Assets/GOWELILOGOPLAIN.png" width=10% height=10%>
 
@@ -42,6 +43,24 @@ In this case, I used AI to generate an image with a shape that I liked. I then u
 Not only am I not a graphic designer, I'm not a UX designer either. I threw this together in Microsoft Designer. I like the chosen color pallet and I hope the layout is user-friendly and easy to understand. It will likely end up be much simpler than this because I do not know how far my skills will develop before the project is due. The below image will likely change a few more times as I develop my ideas. I'm already thinking of changing the layout of the windows to a stacked implementation
 
 <img src="/Assets/GoweliMockup.png">
+
+## Feedback
+
+Reach out to me on Slack and give your feedback. I'm open to any and all suggestions and criticism.
+If you like anything you see here and would like my help (no idea why you would) I will do my best to lend you a hand.
+
+## Resources
+
+Here's what I have used so far to help build this repo and the assets in it.
+
+- [Canva's AI](https://www.canva.com/ai-logo-generator/) to generate a simple logo
+- [Inkscape](https://inkscape.org/) to generate a bitmap trace of the logo and export as an SVG
+- [CloudConvert](https://cloudconvert.com/svg-to-png) to convert the SVG file from Inkscape into a PNG
+- [Microsoft Designer](https://designer.microsoft.com/) to design the application mockup
+- [StackEdit](https://stackedit.io/) to help create this README
+- [Notepad++](https://notepad-plus-plus.org/) to edit this README
+- [Google](https://google.com) for obvious reasons
+- [Code:You](https://code-you.org/) for resources, guidance, and motivation!
 
 
 
