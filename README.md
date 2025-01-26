@@ -34,7 +34,7 @@ I've landed on **Goweli** (go-way-lee) which is the English spelling of the Cher
 
 I'm not a graphic designer. I've never been able to get a grasp on image creation or editing tools.
 In this case, I used AI to generate an image with a shape that I liked. I then used Inkscape to do a bitmap trace to give me a simple logo and saved it as a PNG.
-![Goweli logo](https://i.postimg.cc/d3Xzwkt2/Icon.png)
+<img src="/Assets/GOWELILOGOPLAIN.png" width=10% height=10%>
 
 ## What will the app look like?
 
