@@ -40,7 +40,11 @@ I have not yet decided on a design or font for the word 'Goweli'.
 
 ## What will the app look like?
 
-Not only am I not a graphic designer, I'm not a UX designer either. I threw this together in Microsoft Designer. I like the chosen color pallet and I hope the layout is user-friendly and easy to understand. It will likely end up be much simpler than this because I do not know how far my skills will develop before the project is due. The below image will likely change a few more times as I develop my ideas. I'm already thinking of changing the layout of the windows to a stacked implementation
+Not only am I not a graphic designer, I'm not a UX designer either. I threw this together in Microsoft Designer.
+I like the chosen color pallet and I hope the layout is user-friendly and easy to understand. It will likely end up being
+much simpler than this because I do not know how far my skills will develop before the project is due. The below image
+will likely change a few more times as I develop my ideas. I'm already thinking of changing the layout of the windows to
+a more stacked implementation. Clicking on the image below will open a larger, easier to see version.
 
 <img src="/Assets/GoweliMockup.png">
 
