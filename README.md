@@ -64,6 +64,10 @@ Here's what I have used so far to help build this repo and the assets in it.
 - [Canva's AI](https://www.canva.com/ai-logo-generator/) to generate a simple logo
 - [Inkscape](https://inkscape.org/) to generate a bitmap trace of the logo and export as a PNG
 - [Microsoft Designer](https://designer.microsoft.com/) to design the application mockup
+- [DaFont](https://dafont.com) for free to use fonts used in the app (these may change)
+- [Phosphor](https://phosphoricons.com) for the icons used inside the buttons
+- [AngelSix](https://www.youtube.com/@AngelSix) on YouTube for his AvaloniaUI tutorial
+- [GitHub Copilot](https://github.com/features/copilot) for help explaining errors and providing examples
 - [StackEdit](https://stackedit.io/) to help create this README
 - [Notepad++](https://notepad-plus-plus.org/) to edit this README
 - [Google](https://google.com) for obvious reasons
