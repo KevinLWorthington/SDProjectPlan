@@ -45,13 +45,12 @@ I have not yet decided on a design or font for the word 'Goweli'.
 
 ## What will the app look like?
 
-Not only am I not a graphic designer, I'm not a UX designer either. I threw this together in Microsoft Designer.
-I like the chosen color pallet and I hope the layout is user-friendly and easy to understand. It will likely end up being
-much simpler than this because I do not know how far my skills will develop before the project is due. The below image
-will likely change a few more times as I develop my ideas. I'm already thinking of changing the layout of the windows to
-a more stacked implementation. Clicking on the image below will open a larger, easier to see version.
+I have been working on learning AvaloniaUI. I've started on the design and layout of my app. So far, I have 2 views nearly completed.
+I have included screenshots from Visual Studio of my progress.
+Below, you'll see the home view (what the app will look like when launched) and the add a book view (what you'll see when clicking the ADD A BOOK button
 
-<img src="/Assets/GoweliMockup.png">
+<img src="/Assets/GoweliUIHome.png">
+<img src="/Assets/GoweliUIAddBook.png">
 
 ## Feedback
 
