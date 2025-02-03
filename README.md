@@ -47,7 +47,7 @@ I have not yet decided on a design or font for the word 'Goweli'.
 
 I have been working on learning AvaloniaUI. I've started on the design and layout of my app. So far, I have 2 views nearly completed.
 I have included screenshots from Visual Studio of my progress.
-Below, you'll see the home view (what the app will look like when launched) and the add a book view (what you'll see when clicking the ADD A BOOK button
+Below, you'll see the home view (what the app will look like when launched) and the add a book view (what you'll see when clicking the ADD A BOOK button).
 
 <img src="/Assets/GoweliUIHome.png">
 <img src="/Assets/GoweliUIAddBook.png">
