@@ -16,20 +16,16 @@ My wife and I like to collect and read books. We especially like to find books a
 - The ability to delete books from the database
 - The ability to search the database and find if a book is in the collection or not
 - Implement an API to fetch additional book information from the web (if available)
-	>Cover art, detailed description
+	>Cover art, for example
 
 ## How will these features be implemented?
 
 - Using Avalonia to create the front end
 - Using Avalonia for interactive buttons, text input, and window transitions
 - Using SQLite for storing book information
-- Using ...? API for fetching additional information from the web
-	>Google Books API or OpenLibrary API
+- Using OpenLibrary API for fetching additional information from the web
 	
-By using Avalonia, I may be making this task more difficult. However, from what I have learned
-about it so far, it seems fairly easy to use. I've tinkered with it a bit (with the help of
-YouTube, Google, and Copilot) to make some simple buttons and text blocks and generate the background gradient
-for the application window.
+I have had more time to practice using AvaloniaUI. I'm still learning, but I've gotten pretty far with help.
 
 ## What's the name of this application?
 
@@ -45,12 +41,11 @@ I have not yet decided on a design or font for the word 'Goweli'.
 
 ## What will the app look like?
 
-I have been working on learning AvaloniaUI. I've started on the design and layout of my app. So far, I have 2 views nearly completed.
-I have included screenshots from Visual Studio of my progress.
-Below, you'll see the home view (what the app will look like when launched) and the add a book view (what you'll see when clicking the ADD A BOOK button
+I've made quite a bit of progress on the app so far. With the help of Google searches, YouTube, and Copilot I've managed to implement
+most of the features I wanted. I've even been able to get the OpenLibrary API to serve book cover images for the books I enter. I've
+included a brief gif below showing my progress.
 
-<img src="/Assets/GoweliUIHome.png">
-<img src="/Assets/GoweliUIAddBook.png">
+![](https://github.com/KevinLWorthington/SDProjectPlan/blob/main/Assets/AppDemo.gif)
 
 ## Feedback
 
@@ -66,6 +61,8 @@ Here's what I have used so far to help build this repo and the assets in it.
 - [Microsoft Designer](https://designer.microsoft.com/) to design the application mockup
 - [DaFont](https://dafont.com) for free to use fonts used in the app (these may change)
 - [Phosphor](https://phosphoricons.com) for the icons used inside the buttons
+- [OpenLibrary](https://openlibrary.org) for their free API
+- [OpenLibrary.NET](https://github.com/Luca3317/OpenLibrary.NET) for their C# library
 - [AngelSix](https://www.youtube.com/@AngelSix) on YouTube for his AvaloniaUI tutorial
 - [GitHub Copilot](https://github.com/features/copilot) for help explaining errors and providing examples
 - [StackEdit](https://stackedit.io/) to help create this README
