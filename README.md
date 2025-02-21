@@ -42,10 +42,10 @@ I have not yet decided on a design or font for the word 'Goweli'.
 ## What will the app look like?
 
 I've made quite a bit of progress on the app so far. With the help of Google searches, YouTube, and Copilot I've managed to implement
-most of the features I wanted. I've even been able to get the OpenLibrary API to serve book cover images for the books I enter. I've
-included a brief gif below showing my progress.
+some of the features I want. Below you will find screenshots of my work so far. I still have a lot to learn!
 
-![](https://github.com/KevinLWorthington/SDProjectPlan/blob/main/Assets/AppDemo.gif)
+<img src="/Assets/GoweliUIHome.png">
+<img src="/Assets/GoweliUIAddBook.png">
 
 ## Feedback
 
