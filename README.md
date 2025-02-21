@@ -54,7 +54,7 @@ If you like anything you see here and would like my help (no idea why you would)
 
 ## Resources
 
-Here's what I have used so far to help build this repo and the assets in it.
+Here are the resources I've managed to find that will/have help(ed) me build my project.
 
 - [Canva's AI](https://www.canva.com/ai-logo-generator/) to generate a simple logo
 - [Inkscape](https://inkscape.org/) to generate a bitmap trace of the logo and export as a PNG
